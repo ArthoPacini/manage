@@ -1,4 +1,9 @@
+
+
 # manage
+
+![Usage](./env.gif)
+
 Manage is a command-line tool for simplifying Docker and Podman container management across multiple environments and services.
 
 It allows you to switch between different environments effortlessly. It supports loading environment variables from plain or encrypted files and integrates them into Docker or Podman compose configurations.
